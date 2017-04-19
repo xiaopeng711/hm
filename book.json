@@ -1,0 +1,32 @@
+{
+  "title" : "肖鹏的健康管理",
+  "description" : "肖鹏的健康管理",
+  "author" : "肖鹏",
+  "generator": "site",
+  "language" : "zh-hans",
+  "plugins": [
+    "tbfed-pagefooter",
+    "ace",
+    "splitter",
+    "yahei",
+    "toc",
+    "anchor-navigation"
+  ],
+  "pluginsConfig": {
+    "sharing": {
+      "weibo": true,
+      "google": false,
+      "facebook": false,
+      "twitter": false
+    },
+    "tbfed-pagefooter": {
+      "copyright":"Copyright(C) 2017, 肖鹏/790882656@qq.com, Ltd",
+      "modify_label": "修订时间：",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "toc": {
+      "addClass": true,
+      "className": "toc"
+    }
+  }
+}
