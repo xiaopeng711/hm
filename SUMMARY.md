@@ -17,4 +17,9 @@
     * [胃镜](report/gastroscope.md)
     * [肠镜](report/colonoscopy.md)
     * [CT](report/ct.md)
+    * [肿瘤个性化诊疗基因检测](report/sequence.md)
+* [注意事项](notice/READMD.md)
+    * [饮食](notice/food.md)
+    * [运动](notice/sport.md)
+    * [化疗](notice/chemotherapy.md)
 
