@@ -1,6 +1,8 @@
 # 化疗
 ---
 
+<!-- toc -->
+
 ## 肠癌患者术后如何做好排便护理
 
 ![image](../public/images/notice/chemotherapy/肠癌患者术后如何做好排便护理_1.jpg)
