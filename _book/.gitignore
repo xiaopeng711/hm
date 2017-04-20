@@ -1,4 +1,6 @@
 .idea
-.gitosc
-hm.iml
 将删除 .idea/workspace.xml
+将删除 .idea/markdown-navigator.xml
+将删除 .idea/markdown-navigator/
+_book
+hm.iml
