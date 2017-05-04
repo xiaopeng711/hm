@@ -9,4 +9,4 @@
 
 ## 90分Ultra Smart智能跑鞋
 
-![image](../public/images/monitoring/sport/微信图片_20170427135855.jpg)
+![image](../public/images/monitoring/sport/UltraSmart.jpg)
