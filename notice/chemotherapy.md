@@ -42,9 +42,11 @@
 
 ![image](../public/images/notice/chemotherapy/使用奥沙利铂注意事项_2.jpg)
 
-## 使用伊立替康
+## 开普拓（伊立替康）注意事项
 
-![image](../public/images/notice/chemotherapy/使用伊立替康.jpg)
+![image](../public/images/notice/chemotherapy/使用伊立替康_1.jpg)
+
+![image](../public/images/notice/chemotherapy/使用伊立替康_2.jpg)
 
 ## 肿瘤病人的分子靶向治疗及护理
 
